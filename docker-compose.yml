@@ -44,3 +44,4 @@ volumes:
   sonarqube_logs:
   sonarqube_temp:
   postgresql:
+  postgresql_data:
